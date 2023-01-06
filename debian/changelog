@@ -1,4 +1,10 @@
-vanilla-base-desktop (0.0.1) kinetic; urgency=low
+vanilla-base-desktop (1.0.0) kinetic; urgency=low
+
+  * Add desktop related packages from vanilla-base-meta
+
+ -- Mirko Brombin <send@mirko.pm>  Fri, 06 Jan 2023 21:22:00 +0100
+ 
+ vanilla-base-desktop (0.0.1) kinetic; urgency=low
 
   * First release
 
