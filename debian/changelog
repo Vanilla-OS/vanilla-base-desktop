@@ -1,3 +1,9 @@
+vanilla-base-desktop (1.2.0) kinetic; urgency=critical
+
+  * Add vanilla plugins
+
+ -- Mirko Brombin <send@mirko.pm>  Fri, 06 Jan 2023 21:22:00 +0100
+
 vanilla-base-desktop (1.1.2) kinetic; urgency=critical
 
   * Move some dependencies to recommends
@@ -5,13 +11,13 @@ vanilla-base-desktop (1.1.2) kinetic; urgency=critical
 
  -- Mirko Brombin <send@mirko.pm>  Fri, 06 Jan 2023 21:22:00 +0100
 
- vanilla-base-desktop (1.0.0) kinetic; urgency=critical
+vanilla-base-desktop (1.0.0) kinetic; urgency=critical
 
   * Add desktop related packages from vanilla-base-meta
 
  -- Mirko Brombin <send@mirko.pm>  Fri, 06 Jan 2023 21:22:00 +0100
  
- vanilla-base-desktop (0.0.1) kinetic; urgency=low
+vanilla-base-desktop (0.0.1) kinetic; urgency=low
 
   * First release
 
