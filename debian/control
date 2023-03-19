@@ -15,7 +15,7 @@ Depends: adwaita-icon-theme-full,
          gnome-backgrounds,
          gnome-color-manager,
          gnome-control-center,
-         gnome-software-plugin-vanilla,
+         # gnome-software-plugin-vanilla, re-add after gnome-software repack
          gnome-menus,
          gnome-online-accounts,
          gnome-online-miners,
